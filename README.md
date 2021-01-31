@@ -1,3 +1,6 @@
+# Archival Notice
+This repository has been archived and the functionality has been moved to the gem organisir hosted [here](https://github.com/anujc4/organisir). The gem was easier to manage than having a single file with all the functionalities.
+
 # OrganiSer
 
 Utilities for managing files in my local machine.
